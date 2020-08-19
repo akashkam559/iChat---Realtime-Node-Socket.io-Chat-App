@@ -1,0 +1,10 @@
+1). git init
+
+2). git remote add origin https://github.com/akashkam559/ichat.git
+
+3). git add .
+
+4). git commit -m "Initial working done"
+
+5). git push origin master --force 
+=============================================
