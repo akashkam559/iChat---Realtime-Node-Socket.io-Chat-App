@@ -1,8 +1,8 @@
 iChat - Realtime Node Socket.io Chat App
 ==========================================
-1). go live - vs code extension
+1). go live by turning on -> port 5500 -> on right bottom
 
-2). nodemon index.js
+2). cd nodeserver -> nodemon index.js
 
-3). check 
+3). 127.0.0.1:5500/index.html
 ===============================
